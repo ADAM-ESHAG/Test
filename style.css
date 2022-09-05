@@ -830,7 +830,7 @@ h4 {
 }
 .agence img {
     width: 100%;
-    height: 40px;
+    height: auto;
 }
 .logo img {
     width: 100px;

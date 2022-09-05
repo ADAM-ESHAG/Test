@@ -99,9 +99,9 @@ a:hover {
     background-attachment: fixed;
 }
 
-.d-bloc {
+/* .d-bloc {
     color: rgba(255, 255, 255, .7);
-}
+} */
 
 .d-bloc button:hover {
     color: rgba(255, 255, 255, .9);
@@ -734,10 +734,6 @@ h4 {
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
-}
-
-.white {
-    color: #FFFFFF!important;
 }
 
 .portfolio-thumb {

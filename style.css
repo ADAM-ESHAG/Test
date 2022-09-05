@@ -302,13 +302,14 @@ a:hover {
 }
 
 .navbar-brand img {
-    max-height: 200px;
-    margin: 0 5px 0 0;
+    width: 200px;
+    height: 40px;
     display: inline;
 }
 
 .navbar-brand img[src$=svg] {
     min-width: 100px;
+    min-height: 40px;
 }
 
 .nav-center .navbar-brand img {
@@ -827,12 +828,6 @@ h4 {
 .images img {
     width: 100%;
     height: 200px;
-}
-.agence img {
-    width: 200px;
-    height: 40px;
-    margin: 0 5px 0 0;
-    display: inline;
 }
 .logo img {
     width: 100px;

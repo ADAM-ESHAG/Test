@@ -831,6 +831,8 @@ h4 {
 .agence img {
     width: 200px;
     height: 40px;
+    margin: 0 5px 0 0;
+    display: inline;
 }
 .logo img {
     width: 100px;

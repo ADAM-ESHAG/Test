@@ -2,7 +2,7 @@
     font-family: et-line;
     font-style: normal;
     font-weight: 400;
-    src: local('Et-line Regular'),local('Et-line-Regular'), url(../fonts/et-line.eot?#iefix) format('embedded-opentype'), url(../fonts/et-line.woff) format('woff'), url(../fonts/et-line.woff2) format('woff2'), url(../fonts/et-line.ttf) format('truetype'), url(../fonts/et-line.svg#et-line) format('svg');
+    src: local('Et-line Regular'), local('Et-line-Regular'), url(../fonts/et-line.eot?#iefix) format('embedded-opentype'), url(../fonts/et-line.woff) format('woff'), url(../fonts/et-line.woff2) format('woff2'), url(../fonts/et-line.ttf) format('truetype'), url(../fonts/et-line.svg#et-line) format('svg');
     font-display: swap;
 }
 .et-icon-adjustments,
@@ -106,7 +106,7 @@
 .et-icon-wallet,
 .et-icon-wine {
     font-family: et-line;
-    speak: none;
+    speak-as: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
